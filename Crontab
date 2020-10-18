@@ -1,0 +1,8 @@
+crontab makes it possible to run the program at a set time everyday (12.00 in this example).
+Steps:
+1. Turn Data-mining-Property.py into Data-mining-Property.command
+2. Open Terminal and type chmod 777 /path/Data-mining-Property.py
+3. Still in terminal write crontab -e
+4. Paste: 12 00 * * * /path/Data-mining-Property.command
+5. press ":" then write "wq"
+Done.
