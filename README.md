@@ -29,6 +29,6 @@ The possibility this data set creates for analysis is quite wide.
 
 Examples of potential and future uses of data gathered:
 
-* Yield map of the cities surveyed (yearly rental incom / total price
+* Yield map of the cities surveyed (yearly rental income / total price
 * Time from listing of rental or property to sold/rented as a measure of attractiveness
 * Proximity to certain areas, offices, parks etc. based on lon/lat.
